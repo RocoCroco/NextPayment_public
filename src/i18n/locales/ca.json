@@ -1,0 +1,150 @@
+{
+    "settings": "Configuració",
+    "general": "General",
+    "notifications": "Notificacions",
+    "language": "Idioma",
+    "currency": "Moneda",
+    "currency_info": "Només canvia el símbol mostrat. No converteix imports.",
+
+    "no_payments": "No tens pagaments",
+    "add_first_payment": "Afegeix el teu primer pagament per començar a gestionar les teves despeses",
+    "monthly_spend": "Despesa mensual",
+    "per_year": " a l'any",
+
+    "date": "Data",
+    "category": "Categoria",
+    "add": "Afegir",
+
+    "add_payment": "Afegir pagament",
+    "details": "Detalls",
+    "next_payment": "Pròxim pagament",
+
+    "relative.today": "Avui",
+    "relative.tomorrow": "Demà",
+    "relative.in_days_one": "D'aquí {{count}} dia",
+    "relative.in_days_other": "D'aquí {{count}} dies",
+    "relative.overdue_one": "Vençut {{count}} dia",
+    "relative.overdue_other": "Vençut {{count}} dies",
+    "relative.ago_one": "Fa {{count}} dia",
+    "relative.ago_other": "Fa {{count}} dies",
+
+    "frequency_text.monthly": "cada mes",
+    "frequency_text.yearly": "cada any",
+    "frequency_text.weekly": "cada setmana",
+    "frequency_text.daily": "cada dia",
+    "frequency_text.custom_one": "cada {{count}} dia",
+    "frequency_text.custom_other": "cada {{count}} dies",
+
+    "subscription_age.days_one": "{{count}} dia",
+    "subscription_age.days_other": "{{count}} dies",
+    "subscription_age.months_one": "{{count}} mes",
+    "subscription_age.months_other": "{{count}} mesos",
+    "subscription_age.years_one": "{{count}} any",
+    "subscription_age.years_other": "{{count}} anys",
+    "subscription_age.years_and_months": "{{years}} {{yearsText}} i {{months}} {{monthsText}}",
+
+    "total_accumulated": "Total acumulat",
+    "charges_count": "Nombre de càrrecs",
+
+    "no_payments_today": "No hi ha pagaments aquest dia",
+
+    "new_payment": "Nou Pagament",
+    "basic_info_star": "Informació bàsica *",
+    "service_name_star": "Nom del servei *",
+    "start_date_star": "Data d'inici *",
+    "frequency_star": "Freqüència de pagament *",
+    "price": "Preu",
+
+    "extra_info_opt": "Informació addicional (opcional)",
+    "color": "Color",
+    "payment_method": "Mètode de pagament",
+    "account": "Compte",
+    "linked_account": "Compte associat",
+    "description": "Descripció",
+
+    "category.Casa": "Casa",
+    "category.Entretenimiento": "Entreteniment",
+    "category.Cultura": "Cultura",
+    "category.Deporte": "Esports",
+    "category.Música": "Música",
+    "category.Mobilidad": "Mobilitat",
+    "category.Productividad": "Productivitat",
+    "category.Noticias": "Notícies",
+    "category.Gaming": "Gaming",
+    "category.Comida": "Comida",
+    "category.Trabajo": "Treball",
+    "category.Educación": "Educació",
+    "category.Otros": "Altres",
+
+    "frequency.diario": "Diari",
+    "frequency.semanal": "Setmanal",
+    "frequency.mensual": "Mensual",
+    "frequency.anual": "Anual",
+    "frequency.custom": "Personalitzada",
+
+    "custom_frequency_days": "Interval personalitzat (dies) *",
+
+    "notifications.global": "Notificacions Globals",
+    "notifications.payments": "Recordatoris de Pagaments",
+    "notifications.promotions": "Promocions",
+    "notifications.enabled": "Recordatoris activats",
+    "notifications.days_before": "Dies abans del pagament",
+    "notifications.time": "Hora de notificació",
+
+    "summary": "Resum d'importos",
+    "monthly_amount": "Import mensual:",
+    "yearly_amount": "Import anual:",
+
+    "cancel": "Cancel·lar",
+    "save": "Desar",
+
+    "created.title": "Pagament creat!",
+    "created.desc": "El teu nou pagament \"{{name}}\" s'ha afegit correctament",
+    "perfect": "¡Perfecte!",
+
+    "edit.title": "Editar Pagament",
+    "saved.title": "Canvis desats!",
+    "saved.desc": "El pagament \"{{name}}\" s'ha actualitzat correctament",
+
+    "not_found": "Pagament no trobat",
+    "back": "Tornar",
+
+    "delete_subscription": "Eliminar pagament",
+    "delete.title": "Eliminar pagament?",
+    "delete.desc": "Aquesta acció eliminarà permanentment el pagament \"{{name}}\" i no es pot desfer.",
+    "delete.confirm": "Eliminar",
+
+    "using_since": "Fent servir des de:",
+    "activated": "Activades",
+    "deactivated": "Desactivades",
+    "days_notice": "Dies d'avís:",
+    "days_before_x": "{{days}} dies abans",
+    "time": "Hora:",
+    "info": "Informació",
+
+    "total_mes": "Total mensual",
+    "total_año": "Total anual",
+    "payments": "Pagaments",
+    "category_distribution": "Distribució per categoria",
+    "trend_monthly": "Tendència mensual",
+    "trend_yearly": "Tendència anual",
+    "insight.highest_payment": "és la teva subscripció més cara amb {{amount}}{{currency}}",
+    "insight.dominant_category": "representa el {{percentage}}% de les teves despeses",
+    "insight.most_accumulated": "ha acumulat {{amount}}{{currency}} des que va començar",
+    "insight.oldest_subscription": "és la teva subscripció més antiga (des de {{date}})",
+    "period": {
+        "month": "Mes",
+        "year": "Any"
+    },
+
+    "perm_denied": "Permís denegat",
+    "perm_explain": "No podem enviar-te recordatoris sense permís. Desactivem els recordatoris per a aquesta subscripció.",
+
+    "error.title": "Error",
+    "error.name_required": "El nom és obligatori",
+    "error.start_required": "La data d'inici és obligatòria",
+    "error.price_required": "El preu ha de ser més gran que 0",
+    "error.save_failed": "Hi ha hagut un problema en desar la subscripció. Torna-ho a provar.",
+    "error.custom": "Període",
+    "error.custom_info": "Indica els dies del període personalitzat (enter més gran que 0)."
+}

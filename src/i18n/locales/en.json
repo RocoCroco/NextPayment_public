@@ -1,0 +1,150 @@
+{
+    "settings": "Settings",
+    "general": "General",
+    "notifications": "Notifications",
+    "language": "Language",
+    "currency": "Currency",
+    "currency_info": "Only changes the displayed symbol. Does not convert amounts.",
+
+    "no_payments": "You have no payments",
+    "add_first_payment": "Add your first payment to start managing your expenses",
+    "monthly_spend": "Monthly expense",
+    "per_year": " per year",
+    "add": "Add",
+
+    "date": "Date",
+    "category": "Category",
+
+    "add_payment": "Add payment",
+    "details": "Details",
+    "next_payment": "Next payment",
+
+    "relative.today": "Today",
+    "relative.tomorrow": "Tomorrow",
+    "relative.in_days_one": "In {{count}} day",
+    "relative.in_days_other": "In {{count}} days",
+    "relative.overdue_one": "Overdue {{count}} day",
+    "relative.overdue_other": "Overdue {{count}} days",
+    "relative.ago_one": "{{count}} day ago",
+    "relative.ago_other": "{{count}} days ago",
+
+    "frequency_text.monthly": "every month",
+    "frequency_text.yearly": "every year",
+    "frequency_text.weekly": "every week",
+    "frequency_text.daily": "every day",
+    "frequency_text.custom_one": "every {{count}} day",
+    "frequency_text.custom_other": "every {{count}} days",
+
+    "subscription_age.days_one": "{{count}} day",
+    "subscription_age.days_other": "{{count}} days",
+    "subscription_age.months_one": "{{count}} month",
+    "subscription_age.months_other": "{{count}} months",
+    "subscription_age.years_one": "{{count}} year",
+    "subscription_age.years_other": "{{count}} years",
+    "subscription_age.years_and_months": "{{years}} {{yearsText}} and {{months}} {{monthsText}}",
+
+    "total_accumulated": "Total accumulated",
+    "charges_count": "Charges count",
+
+    "no_payments_today": "No payments this day",
+
+    "new_payment": "New Payment",
+    "basic_info_star": "Basic information *",
+    "service_name_star": "Service name *",
+    "start_date_star": "Start date *",
+    "frequency_star": "Payment frequency *",
+    "price": "Price",
+
+    "extra_info_opt": "Additional information (optional)",
+    "color": "Color",
+    "payment_method": "Payment method",
+    "account": "Account",
+    "linked_account": "Linked account",
+    "description": "Description",
+
+    "category.Casa": "House",
+    "category.Entretenimiento": "Entertainment",
+    "category.Cultura": "Culture",
+    "category.Deporte": "Sports",
+    "category.Música": "Music",
+    "category.Mobilidad": "Mobility",
+    "category.Productividad": "Productivity",
+    "category.Noticias": "News",
+    "category.Gaming": "Gaming",
+    "category.Comida": "Food",
+    "category.Trabajo": "Work",
+    "category.Educación": "Education",
+    "category.Otros": "Others",
+
+    "frequency.diario": "Daily",
+    "frequency.semanal": "Weekly",
+    "frequency.mensual": "Monthly",
+    "frequency.anual": "Yearly",
+    "frequency.custom": "Custom",
+
+    "custom_frequency_days": "Custom interval (days) *",
+
+    "notifications.global": "Global Notifications",
+    "notifications.payments": "Payment Reminders",
+    "notifications.promotions": "Promotions",
+    "notifications.enabled": "Reminders enabled",
+    "notifications.days_before": "Days before payment",
+    "notifications.time": "Notification time",
+
+    "summary": "Amounts summary",
+    "monthly_amount": "Monthly amount:",
+    "yearly_amount": "Yearly amount:",
+
+    "cancel": "Cancel",
+    "save": "Save",
+
+    "created.title": "Payment created!",
+    "created.desc": "Your new payment \"{{name}}\" has been added successfully",
+    "perfect": "Perfect!",
+
+    "edit.title": "Edit Payment",
+    "saved.title": "Changes saved!",
+    "saved.desc": "The payment \"{{name}}\" has been updated successfully",
+
+    "not_found": "Payment not found",
+    "back": "Back",
+
+    "delete_subscription": "Delete payment",
+    "delete.title": "Delete payment?",
+    "delete.desc": "This action will permanently delete the payment \"{{name}}\" and cannot be undone.",
+    "delete.confirm": "Delete",
+
+    "using_since": "Using since:",
+    "activated": "Activated",
+    "deactivated": "Deactivated",
+    "days_notice": "Days notice:",
+    "days_before_x": "{{days}} days before",
+    "time": "Time:",
+    "info": "Information",
+
+    "total_mes": "Monthly total",
+    "total_año": "Yearly total",
+    "payments": "Payments",
+    "category_distribution": "Category distribution",
+    "trend_monthly": "Monthly trend",
+    "trend_yearly": "Yearly trend",
+    "insight.highest_payment": "is your most expensive subscription with {{amount}}{{currency}}",
+    "insight.dominant_category": "represents {{percentage}}% of your expenses",
+    "insight.most_accumulated": "has accumulated {{amount}}{{currency}} since it started",
+    "insight.oldest_subscription": "is your oldest subscription (since {{date}})",
+    "period": {
+        "month": "Month",
+        "year": "Year"
+    },
+
+    "perm_denied": "Permission denied",
+    "perm_explain": "We can’t send reminders without permission. We disabled reminders for this subscription.",
+
+    "error.title": "Error",
+    "error.name_required": "Name is required",
+    "error.start_required": "Start date is required",
+    "error.price_required": "Price must be greater than 0",
+    "error.save_failed": "There was a problem saving the subscription. Try again.",
+    "error.custom": "Custom period",
+    "error.custom_info": "Indicate the days of the custom period (integer greater than 0)."
+}

@@ -1,0 +1,7 @@
+mirar be dates calendari i com es guarden
+text en details de notificaciones activades 18in
+yeasrly trend no te llegenda
+title: `📅 Pago próximo: ${sub.name}`,
+    body: `Quedan ${sub.notifications.daysBeforePayment} días para pagar ${sub.name} (${sub.price.toFixed(2)}${currencySymbol}).`,
+    data: { subscriptionId: sub.id },
+google calendar
